@@ -1,0 +1,6 @@
+# generated data, caches, models and results (recreated by the pipeline)
+data/
+
+# Python
+__pycache__/
+*.pyc
