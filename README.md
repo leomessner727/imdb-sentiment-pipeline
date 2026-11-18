@@ -60,6 +60,15 @@ environment.yml   ambiente conda (Python 3.11 e le stesse dipendenze)
 
 ## Installazione
 
+Scaricare il repository ed entrare nella cartella del progetto (in alternativa: "Code" → "Download ZIP" su GitHub, estrarre lo ZIP ed entrare nella cartella):
+
+```bash
+git clone https://github.com/leomessner727/imdb-sentiment-pipeline.git
+cd imdb-sentiment-pipeline
+```
+
+Tutti i comandi seguenti vanno eseguiti in questa cartella.
+
 Con conda (Anaconda, Miniconda o Miniforge):
 
 ```bash
